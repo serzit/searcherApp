@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/searcherApp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/searcherApp/static/js/main.cc98d42e.chunk.js",
+    "main.js.map": "/searcherApp/static/js/main.cc98d42e.chunk.js.map",
+    "runtime-main.js": "/searcherApp/static/js/runtime-main.4b31b78b.js",
+    "runtime-main.js.map": "/searcherApp/static/js/runtime-main.4b31b78b.js.map",
+    "static/js/2.59bdb856.chunk.js": "/searcherApp/static/js/2.59bdb856.chunk.js",
+    "static/js/2.59bdb856.chunk.js.map": "/searcherApp/static/js/2.59bdb856.chunk.js.map",
+    "index.html": "/searcherApp/index.html",
+    "precache-manifest.d8980de8273d70ed47e351f8f9fbdd8b.js": "/searcherApp/precache-manifest.d8980de8273d70ed47e351f8f9fbdd8b.js",
+    "service-worker.js": "/searcherApp/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/searcherApp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.59bdb856.chunk.js.LICENSE.txt": "/searcherApp/static/js/2.59bdb856.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/searcherApp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b31b78b.js",
+    "static/js/2.59bdb856.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.cc98d42e.chunk.js"
+  ]
+}
